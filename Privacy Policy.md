@@ -1,0 +1,5 @@
+# Privacy Policy
+This app collects all information that an app using unity ads collects, the following is taken from unity's privacy policy at 
+
+# I received an ad from Unity Ads, what do I need to know?
+Unity Ads has probably collected device information, like IP address and device identifiers, and information regarding the delivery of ads and your interaction with them, all of which may be shared with ad publishers and attribution companies. For clarity, Unity collects the following data: whether you click or tap an ad for a new game, whether you watch the ad or play a game frequently, whether others playing a game like the one you’re playing have downloaded a particular new game, and whether you download and install the new game you see advertised. Where a developer has enabled certain features, Unity Ads may also collect your session information and monetization events. All of this is for purposes of predicting the types of new games that you might like to download. Unity may track additional data about you in the future for purposes of making these types of predictions, and we will notify you prior to new data collection.
